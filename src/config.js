@@ -1,6 +1,6 @@
 import path from 'path'
 
-const parentDirFolderName = 'cypress-visual-screenshots'
+const parentDirFolderName = 'cypress/screenshots/cypress-visual-screenshots'
 const parentDir = path.join(process.cwd(), parentDirFolderName)
 const baseline = path.join(process.cwd(), parentDirFolderName, 'baseline')
 const comparison = path.join(process.cwd(), parentDirFolderName, 'comparison')
