@@ -2,7 +2,6 @@
   "integrationFolder": "cypress/specs",
   "pluginsFile": "cypress/plugins/index.js",
   "supportFile": "cypress/support/index.js",
-  "screenshotsFolder": "cypress/screenshots",
   "defaultCommandTimeout": 20000,
   "requestTimeout": 20000
 }
